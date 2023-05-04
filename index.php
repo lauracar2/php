@@ -1,16 +1,8 @@
-<?php
-$varial = 10;
+<php
 
-if ($varial < 20) {
-    echo "é menor que 20";
+$valor1 = 10;
+$valor2 = 5;
 
-}else {
-    echo "é maior que 20";
-}
+echo $soma = (($variavel1 + $variavel2) * ($valor1 / 2));
 
-echo "<br>";
-
-for($i=0; $i<=10; $i++) {
-    echo $i."<br>";
-}
 ?>
