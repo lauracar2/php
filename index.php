@@ -1,8 +1,12 @@
-<php
+<?php
+$nota1 = 7;
+$nota2 = 3;
+$nota3 = 8;
 
-$valor1 = 10;
-$valor2 = 5;
+$media = $nota1 + $nota2 + $nota3 / 3;
 
-echo $soma = (($variavel1 + $variavel2) * ($valor1 / 2));
+echo 'a média é:'."<br>";
+
+echo $media;
 
 ?>
